@@ -1,0 +1,146 @@
+body {
+	font-family: "Roboto", sans-serif;
+	background: #e5e5e5;
+
+	width: 1600px;
+	height: 2349px;
+}
+
+:root {
+	--brand-color: #2196f3 var(--brand-color);
+}
+
+.web-studio {
+	font-family: "Raleway";
+	font-weight: 700;
+	font-size: 26px;
+	line-height: 1.17;
+	color: var(--brand-color, #2196f3);
+}
+
+.web {
+	color: var(--brand-color, #2196f3);
+}
+
+.studio {
+	color: #000000;
+}
+
+.link {
+	color: #212121;
+}
+
+.link:hover,
+.link:focus {
+	color: var (--brand-color, #2196f3);
+}
+
+.contact-link1 {
+	color: #757575;
+}
+
+.contact-link1:hover,
+.contact-link1:focus {
+	color: var(--brand-color, #2196f3);
+}
+
+.headline {
+	font-weight: 900;
+	font-size: 44px;
+	line-height: 1.36;
+	letter-spacing: 0.06em;
+	color: #ffffff;
+}
+
+.service-button {
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 1.88;
+	background: var(--brand-color, #2196f3);
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+	cursor: pointer;
+}
+
+.lorem {
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 1.14;
+	color: #212121;
+}
+
+.lorem-text {
+	font-weight: 400px;
+	font-size: 14px;
+	line-height: 1.71;
+	color: #757575;
+}
+
+.about-us {
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 1.19;
+	color: #212121;
+}
+
+.our-team {
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 1.19;
+	color: #212121;
+}
+
+.employee {
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.19;
+	color: #212121;
+}
+
+.function {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.19;
+	color: #757575;
+}
+
+.contact {
+	font-weight: 400;
+	font-size: 14px;
+	color: #757575;
+}
+
+.contact:hover,
+.contact:focus {
+	color: #2196f3;
+}
+
+.contact-phone {
+	color: #757575;
+}
+
+.button {
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.6;
+	cursor: pointer;
+	color: #ffffff;
+}
+
+.button:hover,
+.button:focus {
+	color: var(--background-color, #2196f3);
+}
+
+.head-text {
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 2;
+	color: #212121;
+}
+
+.line-text {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 2;
+	color: #757575;
+}
