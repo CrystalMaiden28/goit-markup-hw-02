@@ -1,0 +1,259 @@
+body {
+	font-family: "Roboto", sans-serif;
+	background: #fff;
+
+	width: 1600px;
+	height: 2349px;
+}
+
+:root {
+	--brand-color: #2196f3;
+}
+
+.web-studio {
+	font-family: "Raleway";
+	font-weight: 700;
+	font-size: 26px;
+	line-height: 1.17;
+	color: var(--brand-color);
+	text-decoration: none;
+}
+
+.web {
+	color: var(--brand-color);
+}
+
+.studio {
+	color: #000000;
+}
+
+.link {
+	color: #212121;
+	text-decoration: none;
+}
+
+.link:hover,
+.link:focus {
+	color: var(--brand-color);
+}
+
+.contact-link1 {
+	color: #757575;
+	text-decoration: none;
+}
+
+.contact-link1:hover,
+.contact-link1:focus {
+	color: var(--brand-color);
+}
+
+.headline {
+	font-weight: 900;
+	font-size: 44px;
+	line-height: 1.36;
+	letter-spacing: 0.06em;
+	color: #ffffff;
+}
+
+.service-button {
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 1.88;
+	background: var(--brand-color);
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+	cursor: pointer;
+<<<<<<< Updated upstream
+	color: #fff;
+=======
+	color: #ffffff;
+>>>>>>> Stashed changes
+}
+
+.lorem {
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 1.14;
+	color: #212121;
+}
+
+.lorem-text {
+	font-weight: 400px;
+	font-size: 14px;
+	line-height: 1.71;
+	color: #757575;
+}
+
+.about-us {
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 1.19;
+	color: #212121;
+}
+
+.our-team {
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 1.19;
+	color: #212121;
+}
+
+.employee {
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.19;
+	color: #212121;
+}
+
+.function {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.19;
+	color: #757575;
+}
+
+.contact {
+	font-weight: 400;
+	font-size: 14px;
+	color: #757575;
+	text-decoration: none;
+}
+
+.contact:hover,
+.contact:focus {
+	color: var(--brand-color);
+}
+
+.contact-phone {
+	color: #757575;
+	text-decoration: none;
+<<<<<<< Updated upstream
+}
+
+.contact-phone:hover,
+.contact-phone:focus {
+	color: var(--brand-color);
+=======
+>>>>>>> Stashed changes
+}
+
+.contact-phone:hover,
+.contact-phone:focus {
+	color: var(--brand-color);
+}
+.button {
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.6;
+	cursor: pointer;
+	color: #212121;
+<<<<<<< Updated upstream
+	background-color: #f5f4fa;
+	border-radius: 4px;
+	border: none;
+=======
+	border: none;
+	border-radius: 4px;
+	background-color: #f5f4fa;
+}
+
+.button-list {
+	list-style: none;
+>>>>>>> Stashed changes
+}
+
+.button:hover,
+.button:focus {
+	background-color: var(--brand-color);
+<<<<<<< Updated upstream
+	color: #ffffff;
+=======
+	color: #fff;
+>>>>>>> Stashed changes
+	box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
+		0px 2px 2px rgba(0, 0, 0, 0.12);
+}
+
+.head-text {
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 2;
+	color: #212121;
+}
+
+.line-text {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 2;
+	color: #757575;
+}
+
+.studio-footer {
+	color: #ffffff;
+}
+
+<<<<<<< Updated upstream
+.adress-footer {
+	font-size: 14px;
+	line-height: 1, 71;
+	letter-spacing: 0.03em;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.color-section {
+	background-color: #2f303a;
+}
+
+.color-footer {
+=======
+.color-footer {
+	background-color: #2f303a;
+}
+
+.color-section {
+>>>>>>> Stashed changes
+	background-color: #2f303a;
+}
+
+.color-team {
+	background-color: #f5f4fa;
+}
+
+.employee-photo {
+<<<<<<< Updated upstream
+=======
+	width: 270px;
+	height: 368px;
+>>>>>>> Stashed changes
+	background-color: #ffffff;
+	box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
+		0px 2px 1px rgba(0, 0, 0, 0.2);
+	border-radius: 0px 0px 4px 4px;
+<<<<<<< Updated upstream
+	width: 270px;
+	height: 368px;
+}
+
+.Miroslaw-zelent-rzadzi {
+	width: 370px;
+	height: 404px;
+	background: #ffffff;
+	border: 1px solid #eeeeee;
+=======
+}
+
+.adress-footer {
+	font-size: 14px;
+	line-height: 1.71;
+	letter-spacing: 0.03em;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.Miroslaw-zelent-rzadzi {
+	background-color: #fff;
+	width: 370px;
+	height: 404px;
+	border: 1px solid #eee;
+>>>>>>> Stashed changes
+}
