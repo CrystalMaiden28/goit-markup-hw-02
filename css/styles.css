@@ -35,6 +35,11 @@ body {
 	color: #2e2f42;
 }
 
+.menu-nav:hover,
+.menu-nav:focus {
+	color: #404bbf;
+}
+
 .address {
 	font-style: normal;
 }
@@ -46,6 +51,11 @@ body {
 	line-height: 1.5;
 	letter-spacing: 0.02em;
 	color: #434455;
+}
+
+.contact:hover,
+.contact:focus {
+	color: #404bbf;
 }
 
 .first-section {
