@@ -58,7 +58,7 @@ body {
 }
 
 .service-button {
-	font-family: "Roboto";
+	font-family: "Roboto", sans-serif;
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 1.5;
@@ -115,7 +115,12 @@ ul {
 	line-height: 1.11;
 	letter-spacing: 0.02em;
 	text-align: center;
+	text-transform: capitalize;
 	color: #2e2f42;
+}
+
+.team-card {
+	background-color: #ffffff;
 }
 
 .team-mate {
@@ -145,6 +150,7 @@ ul {
 	line-height: 1.11;
 	letter-spacing: 0.02em;
 	text-align: center;
+	text-transform: capitalize;
 	color: #2e2f42;
 }
 
